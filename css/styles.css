@@ -16,7 +16,7 @@
     padding: 20px 0px 20px 0px;
 }
 
-.jumbotran{
+.jumbotron{
     padding: 70px 30px 70px 30px;
     margin:0px auto;
     background:#9575CD;
@@ -28,4 +28,11 @@
     margin: 0px;
     color: #0f0f0f;
 
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0px;
+}
+.navbar-dark{
+    background-color: #512DA8;
 }
